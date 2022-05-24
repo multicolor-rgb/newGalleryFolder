@@ -8,7 +8,7 @@ $thisfile=basename(__FILE__, ".php");
 register_plugin(
 	$thisfile, //Plugin id
 	'new Gallery Folder', 	//Plugin name
-	'1.0', 		//Plugin version
+	'1.1', 		//Plugin version
 	'Mateusz Skrzypczak',  //Plugin author
 	' ', //author website
 	'This plugin generate photo gallery from your folder on easy way', //Plugin description
